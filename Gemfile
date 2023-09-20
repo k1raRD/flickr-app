@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+# custom gems
+
+# flicker gem
+gem 'flickr', '~> 2.1'
+
+# figaro
+gem "figaro"
